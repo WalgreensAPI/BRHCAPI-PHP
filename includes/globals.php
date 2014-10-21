@@ -1,5 +1,5 @@
 <?php
-
+//© Walgreen Co.  All rights reserved.
 	$affiliateId = "YOUR AFFILIATE ID";
     
     $apiKey = "YOUR API KEY";

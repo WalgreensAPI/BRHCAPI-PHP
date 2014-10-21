@@ -1,3 +1,4 @@
+<!--© Walgreen Co.  All rights reserved.-->
 <!DOCTYPE html>
 <html>
 <head>

@@ -1,5 +1,5 @@
 <?php
-
+//© Walgreen Co.  All rights reserved.
 function createLink($url,$cred_data)
 {
 	$queryURL = $url.urldecode(http_build_query($cred_data));
