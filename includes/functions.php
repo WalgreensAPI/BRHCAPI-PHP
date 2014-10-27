@@ -1,5 +1,13 @@
 <?php
-//© Walgreen Co.  All rights reserved.
+/*
+ * Copyright Walgreen Co. All rights reserved *
+ * Licensed under the Walgreens Developer Program and Portal Terms of Use and API License Agreement.
+ * You may not use this file except in compliance with the License.
+ * A copy of the API License Agreement can be found on https://developer.walgreens.com.
+ *
+ * This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
+ * express or implied. See the License for the specific language governing  permissions and limitations under the License.
+ */
 function createLink($url,$cred_data)
 {
 	$queryURL = $url.urldecode(http_build_query($cred_data));
